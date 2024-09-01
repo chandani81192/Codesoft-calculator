@@ -1,0 +1,42 @@
+.id {
+  background-color: grey;
+  border: 1px solid black;
+}
+.my-div {
+  padding-left: 36%;
+  padding-right: 36%;
+}
+
+.container {
+  text-align: center;
+  margin-top: 15px;
+}
+input {
+  border-radius: 20px;
+  border: 2px solid black;
+  font-size: 30px;
+  height: 50px;
+  width: 280px;
+  background-color: white;
+}
+button {
+  border-radius: 20px;
+  font-size: 35px;
+  background: grey;
+  width: 70px;
+  height: 50px;
+  margin: 6px;
+  color: white;
+  cursor: pointer;
+}
+.calculator {
+  /* border: 2px solid black; */
+  /* background-color: #ff99f7; */
+  padding: 23px;
+  border-radius: 53px;
+  display: inline-block;
+}
+h1 {
+  font-size: 35px;
+  font-family: "Courier New", Courier, monospace;
+}
